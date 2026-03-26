@@ -51,6 +51,6 @@ Can I build a small transformer from scratch in PyTorch, train it on a Mishnaic 
 ## Key Resources
 
 - [Karpathy: Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-- Géron: *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* (3rd ed.)
+- Géron: *Hands-On Machine Learning with Scikit-Learn and PyTorch* 
 - Vaswani et al.: [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (2017)
 - [Jay Alammar: The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
