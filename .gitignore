@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ml-env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (keep repo light — download fresh)
+*.csv
+*.tsv
+*.json
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+data/
+
+# Model checkpoints (can be large)
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
